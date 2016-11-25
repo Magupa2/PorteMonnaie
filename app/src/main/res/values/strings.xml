@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">PortaMonnaie</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_exit">Exit</string>
+
+
+    <string name="currency_eur">EUR</string>
+    <string name="currency_usd">USD</string>
+    <string name="currency_gbp">GBP</string>
+    <string name="currency_cny">CNY</string>
+
+    <string name="montant_eur">800</string>
+    <string name="montant_usd">900</string>
+    <string name="montant_gbp">1200</string>
+    <string name="montant_cny">1205</string>
+
+    <string-array name="devises_array">
+        <item>EUR</item>
+        <item>GBP</item>
+        <item>CNY</item>
+        <item>USD</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
